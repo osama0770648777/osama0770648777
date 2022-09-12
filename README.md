@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @osama0770648777
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+osama0770648777/osama0770648777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->help
+Hilp777/osama0770648777
+
+
